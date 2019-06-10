@@ -1,0 +1,9 @@
+Raimundo Moraga ROL: 201773590-2 Paralelo: 202
+se encargo de crear las funciones de busqueda DFS y funcion que calcula cantidad de vertices no alcanzables
+
+Gianni Beninati ROL: 201773508-2 Paralelo: 200
+se encargo de crear las funciones de creacion de matriz y grafo, junto con la funcion insertar().
+
+Sebastian Soto ROL:201773501-5 Paralelo: 200
+creo funcion main() y funcion de liberacion de memoria.
+
